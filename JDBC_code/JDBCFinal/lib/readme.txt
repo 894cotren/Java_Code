@@ -1,0 +1,5 @@
+mysql-connector文件是java链接数据库的驱动
+druid是数据库连接池跟数据库链接工厂的第三方jar包
+
+
+dbutils是更简单的能更快的建立BaseDAO类的jar包
